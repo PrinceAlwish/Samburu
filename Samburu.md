@@ -1,5 +1,11 @@
 # SAMBURU
 Climate: https://weatherandclimate.com/kenya/samburu
+https://www.safaribookings.com/samburu/climate
+https://www.timeanddate.com/weather/@180783/climate
+https://cgspace.cgiar.org/server/api/core/bitstreams/6bec36a6-9d53-4a6b-bca1-af7abbf0396b/content
+https://samburunationalreservekenya.com/information/samburu-national-reserve-weather/
+https://maarifa.cog.go.ke/sites/default/files/2024-06/PCRA%20REPORT.docx_.pdf
+https://cgspace.cgiar.org/server/api/core/bitstreams/6bec36a6-9d53-4a6b-bca1-af7abbf0396b/content
 
 **ABOUT SAMBURU**
 Samburu, located in northern Kenya, experiences a tropical wet and dry climate, characterized by significant temperature variations between day and night. The region is classified as arid to semi-arid, with an annual mean temperature ranging from 18°C to 30°C (64°F to 86°F) and a notable difference between daytime highs and nighttime lows.
