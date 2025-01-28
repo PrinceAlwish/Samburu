@@ -16,9 +16,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌱 Currently Learning
 
-- Advanced JavaScript techniques
-- React Native for mobile app development
-- Cloud computing with AWS
+-  JavaScript techniques
+-  Google Colab
+-  Python
+
 
 ## 📈 GitHub Stats
 
@@ -26,9 +27,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 How to reach me
 
-- Email: princealwish@example.com
-- LinkedIn: [PrinceAlwish](https://www.linkedin.com/in/princealwish)
-- Twitter: [@PrinceAlwish](https://twitter.com/PrinceAlwish)
+- Email: allansaboke@gmail.com
+- LinkedIn: linkedin.com/in/isaiah-wanyama-ba06a420a/
+- Twitter: https://twitter.com/isawanyama87
 
 ## 💬 Let's Connect
 
